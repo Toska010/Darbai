@@ -1,4 +1,0 @@
-git init
-git branch -M main
-git status
-git pull origin main

@@ -1,0 +1,6 @@
+cd Desktop
+[ -d "Darbai/.git" ] && (cd Darbai && git pull) || git clone https://github.com/Toska010/Darbai.git
+[ -d "Kibernetinis_Saugumas/.git" ] && (cd Kibernetinis_Saugumas && git pull) || git clone https://github.com/Toska010/Kibernetinis_Saugumas.git
+[ -d "Duombaziai/.git" ] && (cd Duombaziai && git pull) || git clone https://github.com/Toska010/Duombaziai.git
+[ -d "Taikomuju_Tyrimu/.git" ] && (cd Taikomuju_Tyrimu && git pull) || git clone https://github.com/Toska010/Taikomuju_Tyrimu.git
+[ -d "Informacijos_Sistemos/.git" ] && (cd Informacijos_Sistemos && git pull) || git clone https://github.com/Toska010/Informacijos_Sistemos.git

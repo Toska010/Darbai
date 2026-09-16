@@ -1,6 +1,6 @@
 read -p "Commit message: " msg
 cd ~/Desktop
-for repo in Darbai Kibernetinis_Saugumas Duombaziai Taikomuju_Tyrimu Informacijos_Sistemos Objektinis_Programavimas
+for repo in Darbai Kibernetinis_Saugumas Duombaziai Taikomuju_Tyrimu Informacijos_Sistemos Objektinis_Programavimas Teise
 do
     if [ -d "$repo/.git" ]; then
         echo "Processing $repo..."

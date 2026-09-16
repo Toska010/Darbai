@@ -5,3 +5,4 @@ cd Desktop
 [ -d "Taikomuju_Tyrimu/.git" ] && (cd Taikomuju_Tyrimu && git pull) || git clone https://github.com/Toska010/Taikomuju_Tyrimu.git
 [ -d "Informacijos_Sistemos/.git" ] && (cd Informacijos_Sistemos && git pull) || git clone https://github.com/Toska010/Informacijos_Sistemos.git
 [ -d "Objektinis_Programavimas/.git" ] && (cd Objektinis_Programavimas && git pull) || git clone https://github.com/Toska010/Objektinis_Programavimas.git
+[ -d "Teise/.git" ] && (cd Teise && git pull) || git clone https://github.com/Toska010/Teise.git

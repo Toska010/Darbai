@@ -1,0 +1,3 @@
+C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/sheenbidi-subbuild/CMakeFiles/sheenbidi-populate.dir
+C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/sheenbidi-subbuild/CMakeFiles/edit_cache.dir
+C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/sheenbidi-subbuild/CMakeFiles/rebuild_cache.dir

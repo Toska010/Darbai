@@ -1,0 +1,18 @@
+{
+  "name": "sunkus",
+  "backgroundColor": [26, 10, 12],
+
+  "waveDuration": 30,
+
+  "enemySpawnBaseInterval": 0.80,
+  "enemySpawnRampPerWave": 0.90,
+  "enemySpeed": 200,
+  "enemyEscapeDamage": 10,
+
+  "playerMaxHP": 25,
+  "playerMoveSpeed": 320,
+  "playerShotsPerSecond": 0.8,
+  "bulletSpeed": 650,
+
+  "killsPerLevel": 25
+}

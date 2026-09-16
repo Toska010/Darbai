@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/sheenbidi-subbuild/CMakeFiles/sheenbidi-populate"
+		},
+		{
+			"file" : "C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/sheenbidi-subbuild/CMakeFiles/sheenbidi-populate.rule"
+		},
+		{
+			"file" : "C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/sheenbidi-subbuild/CMakeFiles/sheenbidi-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/sheenbidi-subbuild/sheenbidi-populate-prefix/src/sheenbidi-populate-stamp/sheenbidi-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/sheenbidi-subbuild/sheenbidi-populate-prefix/src/sheenbidi-populate-stamp/sheenbidi-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/sheenbidi-subbuild/sheenbidi-populate-prefix/src/sheenbidi-populate-stamp/sheenbidi-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/sheenbidi-subbuild/sheenbidi-populate-prefix/src/sheenbidi-populate-stamp/sheenbidi-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/sheenbidi-subbuild/sheenbidi-populate-prefix/src/sheenbidi-populate-stamp/sheenbidi-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/sheenbidi-subbuild/sheenbidi-populate-prefix/src/sheenbidi-populate-stamp/sheenbidi-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/sheenbidi-subbuild/sheenbidi-populate-prefix/src/sheenbidi-populate-stamp/sheenbidi-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/sheenbidi-subbuild/sheenbidi-populate-prefix/src/sheenbidi-populate-stamp/sheenbidi-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"sheenbidi-populate"
+		],
+		"name" : "sheenbidi-populate"
+	}
+}

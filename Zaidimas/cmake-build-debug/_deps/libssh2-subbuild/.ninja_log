@@ -1,0 +1,21 @@
+# ninja log v6
+2060	2126	8005365706567923	libssh2-populate-prefix/src/libssh2-populate-stamp/libssh2-populate-test	f1933b9551596e89
+3	73	8005365686044649	libssh2-populate-prefix/src/libssh2-populate-stamp/libssh2-populate-mkdir	5d502b2ef21d6d25
+3	73	8005365686044649	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/libssh2-subbuild/libssh2-populate-prefix/src/libssh2-populate-stamp/libssh2-populate-mkdir	5d502b2ef21d6d25
+1697	1762	8005365702933269	libssh2-populate-prefix/src/libssh2-populate-stamp/libssh2-populate-update	7f945c8884360b25
+74	1692	8005365702222910	libssh2-populate-prefix/src/libssh2-populate-stamp/libssh2-populate-download	215f13adc3f2eaff
+1762	1861	8005365703921966	libssh2-populate-prefix/src/libssh2-populate-stamp/libssh2-populate-patch	4ddda64dd975dbc3
+1762	1861	8005365703921966	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/libssh2-subbuild/libssh2-populate-prefix/src/libssh2-populate-stamp/libssh2-populate-patch	4ddda64dd975dbc3
+1927	1994	8005365705249851	libssh2-populate-prefix/src/libssh2-populate-stamp/libssh2-populate-build	41b8b084f532b724
+74	1692	8005365702222910	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/libssh2-subbuild/libssh2-populate-prefix/src/libssh2-populate-stamp/libssh2-populate-download	215f13adc3f2eaff
+1697	1762	8005365702933269	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/libssh2-subbuild/libssh2-populate-prefix/src/libssh2-populate-stamp/libssh2-populate-update	7f945c8884360b25
+1862	1927	8005365704577203	libssh2-populate-prefix/src/libssh2-populate-stamp/libssh2-populate-configure	644d67cb2c4ce82
+1862	1927	8005365704577203	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/libssh2-subbuild/libssh2-populate-prefix/src/libssh2-populate-stamp/libssh2-populate-configure	644d67cb2c4ce82
+1927	1994	8005365705249851	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/libssh2-subbuild/libssh2-populate-prefix/src/libssh2-populate-stamp/libssh2-populate-build	41b8b084f532b724
+1994	2060	8005365705903984	libssh2-populate-prefix/src/libssh2-populate-stamp/libssh2-populate-install	29bea7af82fac2ec
+1994	2060	8005365705903984	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/libssh2-subbuild/libssh2-populate-prefix/src/libssh2-populate-stamp/libssh2-populate-install	29bea7af82fac2ec
+2060	2126	8005365706567923	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/libssh2-subbuild/libssh2-populate-prefix/src/libssh2-populate-stamp/libssh2-populate-test	f1933b9551596e89
+2126	2215	8005365707461853	CMakeFiles/libssh2-populate-complete	126a5e69190a706f
+2126	2215	8005365707461853	libssh2-populate-prefix/src/libssh2-populate-stamp/libssh2-populate-done	126a5e69190a706f
+2126	2215	8005365707461853	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/libssh2-subbuild/CMakeFiles/libssh2-populate-complete	126a5e69190a706f
+2126	2215	8005365707461853	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/libssh2-subbuild/libssh2-populate-prefix/src/libssh2-populate-stamp/libssh2-populate-done	126a5e69190a706f

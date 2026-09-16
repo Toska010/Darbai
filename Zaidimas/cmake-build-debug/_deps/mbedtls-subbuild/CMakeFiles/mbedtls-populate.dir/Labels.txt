@@ -1,0 +1,14 @@
+# Target labels
+ mbedtls-populate
+# Source files and their labels
+C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/mbedtls-subbuild/CMakeFiles/mbedtls-populate
+C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/mbedtls-subbuild/CMakeFiles/mbedtls-populate.rule
+C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/mbedtls-subbuild/CMakeFiles/mbedtls-populate-complete.rule
+C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/mbedtls-subbuild/mbedtls-populate-prefix/src/mbedtls-populate-stamp/mbedtls-populate-build.rule
+C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/mbedtls-subbuild/mbedtls-populate-prefix/src/mbedtls-populate-stamp/mbedtls-populate-configure.rule
+C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/mbedtls-subbuild/mbedtls-populate-prefix/src/mbedtls-populate-stamp/mbedtls-populate-download.rule
+C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/mbedtls-subbuild/mbedtls-populate-prefix/src/mbedtls-populate-stamp/mbedtls-populate-install.rule
+C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/mbedtls-subbuild/mbedtls-populate-prefix/src/mbedtls-populate-stamp/mbedtls-populate-mkdir.rule
+C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/mbedtls-subbuild/mbedtls-populate-prefix/src/mbedtls-populate-stamp/mbedtls-populate-patch.rule
+C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/mbedtls-subbuild/mbedtls-populate-prefix/src/mbedtls-populate-stamp/mbedtls-populate-test.rule
+C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/mbedtls-subbuild/mbedtls-populate-prefix/src/mbedtls-populate-stamp/mbedtls-populate-update.rule

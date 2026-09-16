@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/libssh2-subbuild/CMakeFiles/libssh2-populate"
+		},
+		{
+			"file" : "C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/libssh2-subbuild/CMakeFiles/libssh2-populate.rule"
+		},
+		{
+			"file" : "C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/libssh2-subbuild/CMakeFiles/libssh2-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/libssh2-subbuild/libssh2-populate-prefix/src/libssh2-populate-stamp/libssh2-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/libssh2-subbuild/libssh2-populate-prefix/src/libssh2-populate-stamp/libssh2-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/libssh2-subbuild/libssh2-populate-prefix/src/libssh2-populate-stamp/libssh2-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/libssh2-subbuild/libssh2-populate-prefix/src/libssh2-populate-stamp/libssh2-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/libssh2-subbuild/libssh2-populate-prefix/src/libssh2-populate-stamp/libssh2-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/libssh2-subbuild/libssh2-populate-prefix/src/libssh2-populate-stamp/libssh2-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/libssh2-subbuild/libssh2-populate-prefix/src/libssh2-populate-stamp/libssh2-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/libssh2-subbuild/libssh2-populate-prefix/src/libssh2-populate-stamp/libssh2-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"libssh2-populate"
+		],
+		"name" : "libssh2-populate"
+	}
+}

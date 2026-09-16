@@ -1,0 +1,36 @@
+"C:\Program Files\JetBrains\CLion 2024.2.3\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2024.2.3/bin/ninja/win/x64/ninja.exe" -G Ninja -S C:\Users\toska\Desktop\PraktikaDarbas\Zaidimas -B C:\Users\toska\Desktop\PraktikaDarbas\Zaidimas\cmake-build-debug
+-- Could NOT find Python3 (missing: Python3_EXECUTABLE Interpreter) 
+-- USING O3
+-- Using CMake version 3.29.6
+-- CMake platform flags: WIN32 GCC MINGW
+-- Picky compiler options: -W -Wall -pedantic -Wbad-function-cast -Wconversion -Winline -Wmissing-declarations -Wmissing-prototypes -Wnested-externs -Wno-long-long -Wno-multichar -Wpointer-arith -Wshadow -Wsign-compare -Wundef -Wunused -Wwrite-strings -Waddress -Wattributes -Wcast-align -Wcast-qual -Wdeclaration-after-statement -Wdiv-by-zero -Wempty-body -Wendif-labels -Wfloat-equal -Wformat-security -Wignored-qualifiers -Wmissing-field-initializers -Wmissing-noreturn -Wno-format-nonliteral -Wno-system-headers -Wold-style-definition -Wredundant-decls -Wsign-conversion -Wno-error=sign-conversion -Wstrict-prototypes -Wtype-limits -Wunreachable-code -Wunused-macros -Wunused-parameter -Wvla -Wclobbered -Wmissing-parameter-type -Wold-style-declaration -Wpragmas -Wstrict-aliasing=3 -ftree-vrp -Wjump-misses-init -Wno-pedantic-ms-format -Wdouble-promotion -Wformat=2 -Wtrampolines -Warray-bounds=2 -Wduplicated-cond -Wnull-dereference -fdelete-null-pointer-checks -Wshift-negative-value -Wshift-overflow=2 -Wunused-const-variable -Walloc-zero -Wduplicated-branches -Wformat-overflow=2 -Wformat-truncation=2 -Wimplicit-fallthrough -Wrestrict -Warith-conversion -Wenum-conversion -Warray-compare -Wenum-int-mismatch -Wxor-used-as-pow
+-- The following features have been enabled:
+
+ * Static library, creating libssh2 static library
+ * Logging, Logging of execution with debug trace
+ * Without deprecated APIs
+ * Crypto backend, mbedTLS
+
+-- The following REQUIRED packages have been found:
+
+ * OpenGL
+ * Threads
+ * MbedTLS
+
+-- The following features have been disabled:
+
+ * Shared library, creating libssh2 shared library (.so/.dll)
+ * Compression, using zlib for compression
+ * Docs, build docs
+
+-- The following OPTIONAL packages have not been found:
+
+ * Python3
+
+-- Could NOT find PkgConfig (missing: PKG_CONFIG_EXECUTABLE) 
+-- Could NOT find Python3 (missing: Python3_EXECUTABLE Interpreter) 
+-- Configuring ogg 1.3.6
+-- Configuring vorbis 1.3.7
+-- Configuring done (23.4s)
+-- Generating done (0.3s)
+-- Build files have been written to: C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug

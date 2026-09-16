@@ -1,0 +1,21 @@
+# ninja log v6
+3	69	8005365539151899	mbedtls-populate-prefix/src/mbedtls-populate-stamp/mbedtls-populate-mkdir	53840eaeba7cc03f
+3	69	8005365539151899	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/mbedtls-subbuild/mbedtls-populate-prefix/src/mbedtls-populate-stamp/mbedtls-populate-mkdir	53840eaeba7cc03f
+3975	4074	8005365579184206	mbedtls-populate-prefix/src/mbedtls-populate-stamp/mbedtls-populate-done	6c1d5bb2969ec902
+70	3477	8005365573222458	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/mbedtls-subbuild/mbedtls-populate-prefix/src/mbedtls-populate-stamp/mbedtls-populate-download	45f7559393886e15
+70	3477	8005365573222458	mbedtls-populate-prefix/src/mbedtls-populate-stamp/mbedtls-populate-download	45f7559393886e15
+3480	3551	8005365573970656	mbedtls-populate-prefix/src/mbedtls-populate-stamp/mbedtls-populate-update	80d756ac4bbd6be6
+3551	3677	8005365575215568	mbedtls-populate-prefix/src/mbedtls-populate-stamp/mbedtls-populate-patch	1b01920497428604
+3480	3551	8005365573970656	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/mbedtls-subbuild/mbedtls-populate-prefix/src/mbedtls-populate-stamp/mbedtls-populate-update	80d756ac4bbd6be6
+3975	4074	8005365579184206	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/mbedtls-subbuild/mbedtls-populate-prefix/src/mbedtls-populate-stamp/mbedtls-populate-done	6c1d5bb2969ec902
+3551	3677	8005365575215568	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/mbedtls-subbuild/mbedtls-populate-prefix/src/mbedtls-populate-stamp/mbedtls-populate-patch	1b01920497428604
+3749	3820	8005365576652349	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/mbedtls-subbuild/mbedtls-populate-prefix/src/mbedtls-populate-stamp/mbedtls-populate-build	e500d8377da5bbe1
+3677	3748	8005365575942703	mbedtls-populate-prefix/src/mbedtls-populate-stamp/mbedtls-populate-configure	6d87a9a8f719e76
+3677	3748	8005365575942703	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/mbedtls-subbuild/mbedtls-populate-prefix/src/mbedtls-populate-stamp/mbedtls-populate-configure	6d87a9a8f719e76
+3749	3820	8005365576652349	mbedtls-populate-prefix/src/mbedtls-populate-stamp/mbedtls-populate-build	e500d8377da5bbe1
+3820	3897	8005365577430663	mbedtls-populate-prefix/src/mbedtls-populate-stamp/mbedtls-populate-install	f0a0f43a72018c3d
+3820	3897	8005365577430663	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/mbedtls-subbuild/mbedtls-populate-prefix/src/mbedtls-populate-stamp/mbedtls-populate-install	f0a0f43a72018c3d
+3897	3974	8005365578193661	mbedtls-populate-prefix/src/mbedtls-populate-stamp/mbedtls-populate-test	29a9053ae2d8f802
+3897	3974	8005365578193661	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/mbedtls-subbuild/mbedtls-populate-prefix/src/mbedtls-populate-stamp/mbedtls-populate-test	29a9053ae2d8f802
+3975	4074	8005365579184206	CMakeFiles/mbedtls-populate-complete	6c1d5bb2969ec902
+3975	4074	8005365579184206	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/mbedtls-subbuild/CMakeFiles/mbedtls-populate-complete	6c1d5bb2969ec902

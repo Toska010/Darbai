@@ -1,0 +1,18 @@
+{
+  "name": "normalus",
+  "backgroundColor": [20, 20, 24],
+
+  "waveDuration": 30,
+
+  "enemySpawnBaseInterval": 0.80,
+  "enemySpawnRampPerWave": 0.93,
+  "enemySpeed": 170,
+  "enemyEscapeDamage": 7,
+
+  "playerMaxHP": 50,
+  "playerMoveSpeed": 340,
+  "playerShotsPerSecond": 1.0,
+  "bulletSpeed": 650,
+
+  "killsPerLevel": 15
+}

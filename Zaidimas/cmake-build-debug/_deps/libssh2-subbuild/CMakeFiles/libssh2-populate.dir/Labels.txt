@@ -1,0 +1,14 @@
+# Target labels
+ libssh2-populate
+# Source files and their labels
+C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/libssh2-subbuild/CMakeFiles/libssh2-populate
+C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/libssh2-subbuild/CMakeFiles/libssh2-populate.rule
+C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/libssh2-subbuild/CMakeFiles/libssh2-populate-complete.rule
+C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/libssh2-subbuild/libssh2-populate-prefix/src/libssh2-populate-stamp/libssh2-populate-build.rule
+C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/libssh2-subbuild/libssh2-populate-prefix/src/libssh2-populate-stamp/libssh2-populate-configure.rule
+C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/libssh2-subbuild/libssh2-populate-prefix/src/libssh2-populate-stamp/libssh2-populate-download.rule
+C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/libssh2-subbuild/libssh2-populate-prefix/src/libssh2-populate-stamp/libssh2-populate-install.rule
+C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/libssh2-subbuild/libssh2-populate-prefix/src/libssh2-populate-stamp/libssh2-populate-mkdir.rule
+C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/libssh2-subbuild/libssh2-populate-prefix/src/libssh2-populate-stamp/libssh2-populate-patch.rule
+C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/libssh2-subbuild/libssh2-populate-prefix/src/libssh2-populate-stamp/libssh2-populate-test.rule
+C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/libssh2-subbuild/libssh2-populate-prefix/src/libssh2-populate-stamp/libssh2-populate-update.rule

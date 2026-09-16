@@ -1,15 +1,13 @@
 read -p "Commit message: " msg
 cd ~/Desktop
-for repo in Darbai Kibernetinis_Saugumas Duombaziai Taikomuju_Tyrimu Informacijos_Sistemos
+for repo in Darbai Kibernetinis_Saugumas Duombaziai Taikomuju_Tyrimu Informacijos_Sistemos Objektinis_Programavimas
 do
     if [ -d "$repo/.git" ]; then
         echo "Processing $repo..."
         cd "$repo"
-
         git add .
         git diff --cached --quiet || git commit -m "$msg"
         git push origin main
-
         cd ..
     fi
 done

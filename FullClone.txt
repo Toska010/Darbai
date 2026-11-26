@@ -6,3 +6,5 @@ cd Desktop
 [ -d "Informacijos_Sistemos/.git" ] && (cd Informacijos_Sistemos && git pull) || git clone https://github.com/Toska010/Informacijos_Sistemos.git
 [ -d "Objektinis_Programavimas/.git" ] && (cd Objektinis_Programavimas && git pull) || git clone https://github.com/Toska010/Objektinis_Programavimas.git
 [ -d "Teise/.git" ] && (cd Teise && git pull) || git clone https://github.com/Toska010/Teise.git
+[ -d "Praktikos_Darbas/.git" ] && (cd Praktikos_Darbas && git pull) || git clone https://github.com/Toska010/Praktikos_Darbas.git
+read -p "Commit message: " msg
